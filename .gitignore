@@ -1,0 +1,21 @@
+# Rezultatul compilării
+out/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# Fișiere generate la rulare
+lab5_text.txt
+*.log
+
+# Sistem
+.DS_Store
+Thumbs.db
